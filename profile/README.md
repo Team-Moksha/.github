@@ -1,5 +1,11 @@
-## Hi there 👋
-# heta pilimathalawe deerananda eke podiayage ussamainna yanna baluwe @Dinujaya @Chathura
+## Deep Learning Models - @isiri01 @nadunnr
+## Enclosure - @risinidhinara
+## New Data Set - @chathuracns
+## Communication Protocol - @dinujaya3d
+
+
+# UPDATES 👇👇👇👇
+### heta pilimathalawe deerananda eke podiayage ussamainna yanna baluwe @Dinujaya @Chathura
 <!--
 
 **Here are some ideas to get you started:**
