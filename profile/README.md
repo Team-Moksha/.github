@@ -6,6 +6,8 @@
 
 # UPDATES 👇👇👇👇
 ### heta pilimathalawe deerananda eke podiayage ussamainna yanna baluwe @Dinujaya @Chathura
+
+### Apita anidda MOCK presentations thiyenawa @Nadun @Risini @Dinujaya (isirita interview)
 <!--
 
 **Here are some ideas to get you started:**
