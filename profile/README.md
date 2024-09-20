@@ -5,10 +5,8 @@
 
 
 # UPDATES 👇👇👇👇
-### heta pilimathalawe deerananda eke podiayage ussamainna yanna baluwe @Dinujaya @Chathura
-
-### Apita anidda MOCK presentations thiyenawa @Nadun @Risini @Dinujaya (isirita interview)
-#mage raththaran yaluwane mn meka update karanne mage commits daganna
+# mage raththaran yaluwane mn meka update karanne mage adata commits daganna
+# meka danne eka thawa tikak kola karaganna
 <!--
 
 **Here are some ideas to get you started:**
