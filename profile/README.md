@@ -8,6 +8,7 @@
 ### heta pilimathalawe deerananda eke podiayage ussamainna yanna baluwe @Dinujaya @Chathura
 
 ### Apita anidda MOCK presentations thiyenawa @Nadun @Risini @Dinujaya (isirita interview)
+#mage raththaran yaluwane mn meka update karanne mage commits daganna
 <!--
 
 **Here are some ideas to get you started:**
