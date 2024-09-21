@@ -5,7 +5,7 @@
 
 
 # UPDATES 👇👇👇👇
-# mage raththaran yaluwane mn meka update karanne mage adata commits daganna
+
 # meka danne eka thawa tikak kola karaganna
 # meka danne thawath chuttak kola karaganne
 <!--
