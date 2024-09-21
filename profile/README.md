@@ -6,7 +6,7 @@
 
 # UPDATES 👇👇👇👇
 
-# meka danne thawath chuttak kola karaganne
+
 <!--
 
 **Here are some ideas to get you started:**
