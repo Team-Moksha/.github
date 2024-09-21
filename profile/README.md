@@ -6,7 +6,6 @@
 
 # UPDATES 👇👇👇👇
 
-# meka danne eka thawa tikak kola karaganna
 # meka danne thawath chuttak kola karaganne
 <!--
 
